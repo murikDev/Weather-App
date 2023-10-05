@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Java Lesson</string>
+    <string name="city">City</string>
+    <string name="temp">00°</string>
+    <string name="search_city">search city...</string>
+    <string name="open_menu">open</string>
+    <string name="close_menu">close</string>
+    <string name="search">search</string>
+    <string name="error_message">An error occurred, please check again!</string>
+    <string name="city_not_found">City not found!</string>
+    <string name="todo">TODO</string>
+</resources>

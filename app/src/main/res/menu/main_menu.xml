@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/search_input_menu"
+            app:actionViewClass="android.widget.SearchView"
+            android:title="Saher gozle" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/src"
+            android:title="@string/search_city" />
+    </group>
+</menu>
